@@ -1,0 +1,7 @@
+/assets/cache/*
+!/assets/cache/index.php
+/admin/lib/phpqrcode/cache/*
+/vendor/phpqrcode/cache/*
+/vendor/
+/.phpcs-cache
+/docs
